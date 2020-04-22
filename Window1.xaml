@@ -3,6 +3,6 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Title="Window1" Height="300" Width="300">
     <StackPanel>
-        <Label FontSize="25" HorizontalContentAlignment="Center" >Login Successful</Label>
+        <Label FontSize="25" HorizontalContentAlignment="Center" Height="106.934" Content="Login Successful&#xD;&#xA;&#xD;&#xA;Git test" />
     </StackPanel>
 </Window>

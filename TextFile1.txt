@@ -1,1 +1,5 @@
 ﻿This a test of git add
+
+Now lets modify this file. 
+
+And recommitt
